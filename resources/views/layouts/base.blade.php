@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="{{ asset('assets/img/favicon.png') }}">
+    <link rel="shortcut icon" href="{{ asset('images/logo2.png') }}">
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet" media="screen">
     <link href="{{ asset('assets/css/chblue.css') }}" rel="stylesheet" media="screen">
     <link href="{{ asset('assets/css/theme-responsive.css') }}" rel="stylesheet" media="screen">
@@ -27,22 +27,21 @@
                 <div class="row">
                     <div class="col-md-6">
                         <ul class="visible-md visible-lg text-left">
-                            <li><a href="tel:+911234567890"><i class="fa fa-phone"></i> +91-1234567890</a></li>
-                            <li><a href="mailto:contact@surfsidemedia.in"><i class="fa fa-envelope"></i>
-                                    contact@surfsidemedia.in</a></li>
+                            <li><a href="#"><i class="fa fa-phone"></i> +54-3415587794</a></li>
+                            <li><a href="#"><i class="fa fa-envelope"></i>
+                                    contact@sofia</a></li>
                         </ul>
                         <ul class="visible-xs visible-sm">
                             <li class="text-left"><a href="tel:+911234567890"><i class="fa fa-phone"></i>
-                                    +91-1234567890</a></li>
+                                    +54-3415587794</a></li>
                             <li class="text-right"><a href="index.php/changelocation.html"><i
-                                        class="fa fa-map-marker"></i> Faridabad, Haryana</a></li>
+                                        class="fa fa-map-marker"></i> Rosario, Argentina</a></li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul class="visible-md visible-lg text-right">
                             <li><i class="fa fa-comment"></i> Live Chat</li>
-                            <li><a href="index.php/changelocation.html"><i class="fa fa-map-marker"></i> Faridabad,
-                                    Haryana</a></li>
+                            <li><a href="index.php/changelocation.html"><i class="fa fa-map-marker"></i> Rosario, Argentina</a></li>
                         </ul>
                     </div>
                 </div>
@@ -55,7 +54,7 @@
 
                 <ul class="collapse">
                     <li class="title">
-                        <a href="index.php.html"><img src="{{ asset('images/logo.png') }}"></a>
+                        <a href="index.php.html"><img src="{{ asset('images/logo2.png') }}" style="width:150px; height:110px"></a>
                     </li>
                     <li> <a href="javascript:void(0);">Air Conditioners</a>
                         <ul class="drop-down one-column hover-fade">

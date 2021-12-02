@@ -108,7 +108,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="titles">
-                            <h2>SurfsideMedia <span>Choice</span> of Services</h2>
+                            <h2>Home Services <span>Choice</span> of Services</h2>
                             <i class="fa fa-plane"></i>
                             <hr class="tall">
                         </div>
